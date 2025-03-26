@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import gdown
 
 # Konfigurasi dasar dashboard
 st.set_page_config(page_title="E-Commerce Dashboard", layout="wide")
